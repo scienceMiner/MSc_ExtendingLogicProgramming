@@ -1,7 +1,7 @@
-# MSc Foundations of Advanced Information Technology , Imperial College - Department of Computing
+# MSc Foundations of Advanced Information Technology, Department of Computing, Imperial College
+---
 
 ## Extending Logic Programming
-
 
 ### Abstract
 
