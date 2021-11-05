@@ -1,5 +1,8 @@
 # MSc Foundations of Advanced Information Technology 
+# Imperial College - Department of Computing
+
 # ExtendingLogicProgramming
+
 
 ## Abstract
 
